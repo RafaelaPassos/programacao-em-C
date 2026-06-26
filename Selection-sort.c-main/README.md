@@ -1,14 +1,16 @@
 # Selection Sort em C
 
-Este projeto implementa o algoritmo Selection Sort utilizando a linguagem C.
-
 ## 📌 Descrição
 
 O selection sort ordena um vetor encontrando o menor elemento da parte não ordenada e o posicionamento no início do vetor. Esse processo é repetido até que todos os elementos estejam ordenados.
 
+---
+
 ## 🛠️ Tecnologias
 
-Linguagem C
+- Linguagem C
+
+---
 
 ## 🎯 Objetivo
 
